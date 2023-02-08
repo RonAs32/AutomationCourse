@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--A Data file to hold all of our variables that are unlikely to change-->
+<Enviornment>
+    <!--UI Configuration-->
+    <url>https://asperii53-dev-ed.develop.lightning.force.com/</url>
+    <username>ron@asperii.sandbox</username>
+    <password>100299qw</password>
+
+    <!--RestAPI Configurations-->
+    <urlAPI>https://reqres.in/</urlAPI>
+
+    <RestUserName>ron@asperii.sandbox</RestUserName>
+    <RestPassword>100299qwB96myZdkJt9FwGDEiiHAW9xV</RestPassword>
+    <ClientID>3MVG9DREgiBqN9WkoqJfYAnWw6s2EpeF47mDz9ZK907PRXqor9b_.j21YnZD0u9NsADjQB777vhVH1JtFLlFd</ClientID>
+    <ClientSecret>25BE24812A7148B4655A290C7C6994DF7BA0B1E20ED65BD50C89B1C8EAC8E3A2</ClientSecret>
+
+    <RestUrl>https://login.salesforce.com/</RestUrl>
+    <GrantService>services/oauth2/token?grant_type=password</GrantService>
+    <Rest_EndPoint>/services/data</Rest_EndPoint>
+    <API_Version>/v56.0</API_Version>
+
+</Enviornment>
