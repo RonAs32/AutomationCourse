@@ -2,10 +2,7 @@ package WorkFlows;
 
 import Extensions.UserActions;
 import Utilities.Operations;
-import com.sun.tools.xjc.reader.xmlschema.bindinfo.BIConversion;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import sun.swing.UIAction;
 
 public class WebFlows extends Operations {
 
