@@ -166,7 +166,7 @@ public class Operations extends Base {
 
     @BeforeClass
     public void ExecuteBeforeClass(){
-        environment = "api";
+        environment = "ui";
         switch(environment) {
             case "api":
                 isApiTest = true;
